@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class datas {
+public class Datas {
 	public static int[] arry = {1,2,3,4,5,6,7,8,9};
 
 
